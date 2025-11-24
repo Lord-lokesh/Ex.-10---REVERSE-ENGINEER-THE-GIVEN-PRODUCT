@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 23-11-2025
+### DATE: 24.11.25
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,13 +31,15 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-<img width="1286" height="784" alt="Screenshot (584)" src="https://github.com/user-attachments/assets/f6080d0e-0255-4bbc-b1f8-468f0fcec089" />
+<img width="1488" height="905" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/9d3145da-d926-467e-a6c4-d6e0505f8cb8" />
 
 ### Output:
-<img width="1320" height="792" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/d71eb3e6-2af1-403a-ab1b-6bd550562075" />
+<img width="1518" height="908" alt="Screenshot (186)" src="https://github.com/user-attachments/assets/6f2ed9ce-0817-498c-be82-a911862773f0" />
 
 
-### Name:LOKESH M
+
+### Name:Lokesh M
+
 ### Register Number:212224230142
 
 ## RESULT:
